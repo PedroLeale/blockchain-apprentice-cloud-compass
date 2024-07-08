@@ -1,6 +1,6 @@
 # Build your first CRUD API in 45 minutes or less!
 
-Um workshop de como criar uma API com as operações **C**REATE, **R**EAD, **U**PDATE** e **D**ELETE para interagir com itens de um banco de dados. <br>
+Um workshop de como criar uma API com as operações **C**REATE, **R**EAD, **U**PDATE e **D**ELETE para interagir com itens de um banco de dados. <br>
 A API será serverless utilizando recursos da AWS, como DynamoDB, HTTP API Gateway e função Lambda.
 
 ## Criar tabela no DynamoDB

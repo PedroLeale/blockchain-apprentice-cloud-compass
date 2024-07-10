@@ -297,6 +297,6 @@ Vamos realizar um teste do fluxo de execução para cafeteria fechada. Para a ca
 }
 ```
 
-4. O espero é a execução ser parecida com esta:
+4. A execução esperada se assemelha a esta:
 
 ![](/progress%20report%203.2/tarefa%202:%20Serverlesspresso/images/workflow/execucao%20cafeteria%20fechada.png)

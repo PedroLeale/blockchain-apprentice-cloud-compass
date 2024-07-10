@@ -6,7 +6,7 @@ Os frontends são aplicações Vue.js que foram implantadas com AWS Amplify.
 
 - [Cloudshell](#cloudshell)
 - [Aplicativo de Display](#aplicativo-de-display)
-- [Aplicativo do Barista](#aplicativo-do-barista)
+- [Aplicativo de Barista](#aplicativo-de-barista)
 - [Aplicativo de Cliente](#aplicativo-de-cliente)
 - [Teste](#teste)
 
